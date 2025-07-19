@@ -17904,5 +17904,12 @@
     "author": "ALE-ARME",
     "description": "Catches your attention when you are idle for XX seconds by flashing GUI's elements",
     "repo": "ALE-ARME/Hey-Wake-Up"
+  },
+  {
+    "id": "plugins-toggler",
+    "name": "Plugins Toggler",
+    "author": "ALE-ARME",
+    "description": "A plugin to quickly enable and disable other plugins from the command palette",
+    "repo": "ALE-ARME/Plugins-Toggler"
   }
 ]
