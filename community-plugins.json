@@ -17820,6 +17820,7 @@
     "author": "ALE-ARME",
     "description": "Quickly enable and disable other plugins from the command palette",
     "repo": "ALE-ARME/Plugins-Toggler"
+  },
   {
     "id": "object-oriented-thinking",
     "name": "Object Oriented Thinking",
