@@ -17909,7 +17909,7 @@
     "id": "plugins-toggler",
     "name": "Plugins Toggler",
     "author": "ALE-ARME",
-    "description": "A plugin to quickly enable and disable other plugins from the command palette",
+    "description": "Quickly enable and disable other plugins from the command palette",
     "repo": "ALE-ARME/Plugins-Toggler"
   }
 ]
