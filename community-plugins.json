@@ -17820,7 +17820,7 @@
     "author": "ALE-ARME",
     "description": "Quickly enable and disable other plugins from the command palette",
     "repo": "ALE-ARME/Plugins-Toggler"
-  }
+  },
     "id": "food-tracker",
     "name": "Food Tracker",
     "author": "Forketyfork",
