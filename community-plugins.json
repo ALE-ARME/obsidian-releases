@@ -17822,11 +17822,11 @@
     "repo": "ALE-ARME/Plugins-Toggler"
   },
   {
-    "id": "object-oriented-thinking",
-    "name": "Object Oriented Thinking",
-    "author": "Tiago Jacinto",
-    "description": "Add inheritance-like behavior to notes.",
-    "repo": "TiagoJacinto/obsidian-object-oriented-thinking"
+    "id": "food-tracker",
+    "name": "Food Tracker",
+    "author": "Forketyfork",
+    "description": "Track your food intake (calories, macronutrients) and nutritional information",
+    "repo": "forketyfork/obsidian-food-tracker"
   },
   {
     "id": "object-oriented-thinking",
